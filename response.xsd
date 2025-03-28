@@ -58,13 +58,6 @@
                                     </xs:documentation>
                                 </xs:annotation>
                             </xs:element>
-                            <xs:element name="omobility-total" type="xs:integer">
-                                <xs:annotation>
-                                    <xs:documentation>
-                                        Number of outgoing mobilities in total.
-                                    </xs:documentation>
-                                </xs:annotation>
-                            </xs:element>
                             <xs:element name="omobility-pending" type="xs:integer">
                                 <xs:annotation>
                                     <xs:documentation>
