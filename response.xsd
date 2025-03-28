@@ -72,10 +72,10 @@
                                     </xs:documentation>
                                 </xs:annotation>
                             </xs:element>
-                            <xs:element name="omobility-verified" type="xs:integer">
+                            <xs:element name="omobility-approved" type="xs:integer">
                                 <xs:annotation>
                                     <xs:documentation>
-                                        Number of outgoing mobilities in the "verified" status.
+                                        Number of outgoing mobilities in the "approved" status.
                                     </xs:documentation>
                                 </xs:annotation>
                             </xs:element>

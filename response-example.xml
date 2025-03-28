@@ -3,12 +3,12 @@
         <receiving-academic-year-id>2021/2022</receiving-academic-year-id>
         <omobility-total>109</omobility-total>
         <omobility-pending>20</omobility-pending>
-        <omobility-verified>80</omobility-verified>
+        <omobility-approved>80</omobility-approved>
     </academic-year-stats>
     <academic-year-stats>
         <receiving-academic-year-id>2022/2023</receiving-academic-year-id>
         <omobility-total>77</omobility-total>
         <omobility-pending>15</omobility-pending>
-        <omobility-verified>60</omobility-verified>
+        <omobility-approved>60</omobility-approved>
     </academic-year-stats>
 </omobility-stats-response>
